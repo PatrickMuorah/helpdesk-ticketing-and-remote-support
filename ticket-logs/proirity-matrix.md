@@ -7,14 +7,16 @@ Priority = **Impact** (how many people / how severe) × **Urgency** (how time-se
 
 ---
 
-## Justification for each ticket
-**Ticket**                           **Priority**                          **Justification**
-Printer won't print                     Medium                             One user, deadline of 2pm gives time, and she can still work or print elsewhere as a workaround. 
-Laptop running very slowly              Low                                Still usable and the problem is gradual, no deadline. Would be raised if it prevented work.
-Cannot open shared drive                High                               Reported as affecting the whole team, so impact is potentially many users; if it affected one=>downgrade
-Suspicious email, user clicked a link   Critical                           Active security incident with possible account compromise & data exposure; Delaying would increase risk
-Forgot password / account locked        High                               User cannot log in at all, so this is a complete work stoppage for one person with no workaround.
-Can't connect to office Wi-Fi           High                               User has no internet with a client call within the hour. No easy workaround other than mobile hotspot.
+## Justification for Each Ticket
+
+| Ticket | Priority | Justification |
+|----------|----------|----------|
+| Printer won't print | Medium | One user is affected, and the printing deadline is 2:00 PM, allowing time for troubleshooting. The user can continue working or use another printer as a temporary workaround. |
+| Laptop running very slowly | Low | The device remains usable, and the issue developed gradually rather than causing an immediate outage. Priority would increase if the slowdown prevented normal work activities. |
+| Cannot open shared drive | High | The issue appears to affect the entire team, creating a high business impact. If only one user were affected, the priority could be reduced. |
+| Suspicious email, user clicked a link | Critical | This is an active security incident that may involve credential compromise, malware infection, or data exposure. Immediate investigation and containment are required to reduce organizational risk. |
+| Forgot password / account locked | High | The user cannot log in and is completely unable to perform work. There is no practical workaround until account access is restored. |
+| Can't connect to office Wi-Fi | High | The user has no internet connectivity and has a client call scheduled within the hour. A mobile hotspot may be available as a temporary workaround, but business impact remains significant. |
 
 
 ---
